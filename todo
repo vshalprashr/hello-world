@@ -1,0 +1,19 @@
+find random triplet from array that sums to k
+find max length of square submatrix having ATMOST sum k
+max of all k sized subarray
+max of all k sized submatrix
+max sum of subarray - Kadane's Algo
+infix to postfix notation
+Doubly Linked List using a single pointer
+
+spiral traversal in binary tree approach1: using matrix store the tree level wise and then print rows in alternate order.. approach2: first find height of tree and then keep i&j for levels, print levels in alternate order and i++ j-- 
+
+ternary search is not better than binary search?? 
+
+clone a linked list with next and random pointer -- fourkites
+
+keep track of max in stack for all the elements inserted and then popped later
+
+Intersection of two linked lists
+
+expression tree

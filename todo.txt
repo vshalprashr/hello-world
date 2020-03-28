@@ -1,0 +1,29 @@
+find random triplet from array that sums to k
+find max length of square submatrix having ATMOST sum k
+max of all k sized subarray
+max of all k sized submatrix
+max sum of subarray - Kadane's Algo
+infix to postfix notation
+Doubly Linked List using a single pointer
+spiral traversal in binary tree
+string
+string
+string
+zxcvbnm
+zxcvbnm
+\nzxcvbnm
+\n
+zxcvbnm
+$\n
+zxcvbnm
+\n
+zxcvbnm
+
+zxcvbnm
+zxcvbnm
+
+heyy its done
+
+heyy
+
+heyy
